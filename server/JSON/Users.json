@@ -1,0 +1,18 @@
+[
+    {
+        "username": "admin",
+        "image": "https://picsum.photos/200/300",
+        "presentation": "I'm Admin",
+        "email": "admin@admin.com",
+        "password": "12345",
+        "role": 1
+    },
+    {
+        "username": "defaultUser",
+        "image": "https://picsum.photos/200/301",
+        "presentation": "I'm default",
+        "email": "default@default.com",
+        "password": "12345",
+        "role": 0
+    }
+]
