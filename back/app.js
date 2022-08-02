@@ -12,6 +12,7 @@ const authRouter = require("./routes/auth");
 //Global middlewares
 app.use(logger("dev"));
 app.use(express.json())
+app.use(cors())
 app.use(
   express.urlencoded({
     extended:false
